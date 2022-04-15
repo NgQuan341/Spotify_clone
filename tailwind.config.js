@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       height:{
-        "navbar-player": "calc(100vh-6rem-6rem)"
+        "screen-navbar-player": "calc(100vh - 6rem - 6rem)"
       }
     },
   },
